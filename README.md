@@ -1,6 +1,5 @@
 ## INTEL EDGE AI
 
-![people-counter-python](./images/people-counter-image.png)
 
 ## What it Does
 
